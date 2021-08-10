@@ -1,7 +1,7 @@
 # 面向初学者的OpenCV-Python教程
 
 - 教程地址: [http://codec.wang/#/opencv/](http://codec.wang/#/opencv/)
-- 本仓库为教程中所用到的源码、图片和音视频素材等
+- 本仓库为教程中所用到的源码、图片和音视频素材等（刘兵测试）
 
 ![](http://cos.codec.wang/opencv-python-tutorial-amend-new-cover.png)
 
